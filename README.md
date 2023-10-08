@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-Tasks from Stepik autotests course
+Stepik autotests course https://stepik.org/course/575/syllabus
